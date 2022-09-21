@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T08:00:23.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="DSJUkC6x19hQLwakFIrJ" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T08:39:19.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="X__jEfNNJi20nvhgG4_F" version="20.2.4" type="github">
   <diagram id="iXZ8qJka1d_i8wJ6fiUk" name="第 1 页">
-    <mxGraphModel dx="983" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="773" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,19 +185,19 @@
           <mxGeometry x="346.38" y="800" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-42" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
-          <mxGeometry x="346.38000000000005" y="907" width="55.82" height="73" as="geometry" />
+          <mxGeometry x="357.2300000000001" y="907" width="55.82" height="73" as="geometry" />
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-43" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
           <mxGeometry x="106.38" y="950" width="63.57" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380.82" y="859" as="sourcePoint" />
-            <mxPoint x="380.38" y="900" as="targetPoint" />
+            <mxPoint x="384.82" y="859" as="sourcePoint" />
+            <mxPoint x="384.38" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-45" value="Nginx服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329.90999999999997" y="974" width="90" height="30" as="geometry" />
+          <mxGeometry x="340.76" y="974" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -206,21 +206,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-47" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
-          <mxGeometry x="345.62000000000006" y="1040" width="55.82" height="73" as="geometry" />
+          <mxGeometry x="356.4700000000001" y="1050" width="55.82" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="pAan9704VEjPBcL9PNMM-48" value="后端应用服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="319.15" y="1107" width="110" height="30" as="geometry" />
+        <mxCell id="pAan9704VEjPBcL9PNMM-48" value="安责险后端服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1117" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-49" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
-          <mxGeometry x="513.62" y="1040" width="52.5" height="61.76" as="geometry" />
+          <mxGeometry x="524.47" y="1050" width="52.5" height="61.76" as="geometry" />
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-50" value="达梦数据库DM8" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="493.62" y="1101.76" width="110" height="30" as="geometry" />
+          <mxGeometry x="504.47" y="1111.76" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="417.15" y="1080.88" as="sourcePoint" />
-            <mxPoint x="503.62" y="1080" as="targetPoint" />
+            <mxPoint x="428" y="1090.88" as="sourcePoint" />
+            <mxPoint x="514.47" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAan9704VEjPBcL9PNMM-52" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.document;" vertex="1" parent="1">
+          <mxGeometry x="506.92" y="899.5" width="37.86" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="pAan9704VEjPBcL9PNMM-53" value="安责险前端静态页面" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460.85" y="957.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAan9704VEjPBcL9PNMM-54" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420.85" y="950" as="sourcePoint" />
+            <mxPoint x="480.85" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460.85" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAan9704VEjPBcL9PNMM-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384.4" y="1004" as="sourcePoint" />
+            <mxPoint x="383.96000000000015" y="1045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
