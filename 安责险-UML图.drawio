@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T06:35:34.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="330TUFp11EDX_5LfAEPj" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T07:47:24.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="sFRotMcRnh1OCBVs-NYC" version="20.2.4" type="github">
   <diagram id="iXZ8qJka1d_i8wJ6fiUk" name="第 1 页">
-    <mxGraphModel dx="1152" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,9 +8,9 @@
           <mxGeometry x="80" y="70" width="110" height="580" as="geometry" />
         </mxCell>
         <mxCell id="jouf5e_0O64Z1K_9d5no-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jouf5e_0O64Z1K_9d5no-1" vertex="1">
-          <mxGeometry x="50" y="59" width="10" height="450" as="geometry" />
+          <mxGeometry x="50" y="59" width="10" height="441" as="geometry" />
         </mxCell>
-        <mxCell id="jouf5e_0O64Z1K_9d5no-5" value="用户访问" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="jouf5e_0O64Z1K_9d5no-1" edge="1">
+        <mxCell id="jouf5e_0O64Z1K_9d5no-5" value="用户访问权限资源" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="jouf5e_0O64Z1K_9d5no-1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="60" y="59" as="sourcePoint" />
             <mxPoint x="254.49999999999977" y="59" as="targetPoint" />
@@ -150,6 +150,9 @@
             <mxPoint x="330" y="539" as="sourcePoint" />
             <mxPoint x="140" y="539" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pAan9704VEjPBcL9PNMM-28" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1010" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
