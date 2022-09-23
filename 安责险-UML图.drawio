@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T03:10:15.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="ZBYpvXoIaYxXzmqIVQJI" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T03:10:44.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="suj7yXlCwXT0Paaj6fAQ" version="20.3.3" type="github">
   <diagram id="iXZ8qJka1d_i8wJ6fiUk" name="第 1 页">
     <mxGraphModel dx="1078" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -195,12 +195,6 @@
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-45" value="Nginx服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340.76" y="974" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pAan9704VEjPBcL9PNMM-46" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010.2" y="1007" as="sourcePoint" />
-            <mxPoint x="1010" y="1047" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pAan9704VEjPBcL9PNMM-47" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" parent="1" vertex="1">
           <mxGeometry x="356.4700000000001" y="1050" width="55.82" height="73" as="geometry" />
