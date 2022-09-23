@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T08:27:37.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="fWhrVRUHeCyGwP6Tk9iV" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T08:32:09.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="kZQC8s9NrmfVBS5rvCW2" version="20.3.3" type="github">
   <diagram id="iXZ8qJka1d_i8wJ6fiUk" name="第 1 页">
-    <mxGraphModel dx="669" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,20 +463,20 @@
             <mxPoint x="1177.58" y="1045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VUR4jvpd3xTprFxyKOf-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5VUR4jvpd3xTprFxyKOf-47" value="（处理过程）&lt;br&gt;聚合分析&lt;br&gt;关联查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="1325" width="189.24" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="5VUR4jvpd3xTprFxyKOf-48" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="5VUR4jvpd3xTprFxyKOf-48" value="（输入）&lt;br&gt;机构名称&lt;br&gt;社会信用代码&lt;br&gt;发生时间&lt;br&gt;行业分类&lt;br&gt;事故分类" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="36.379999999999995" y="1320" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5VUR4jvpd3xTprFxyKOf-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="516.97" y="1389.6599999999999" as="sourcePoint" />
-            <mxPoint x="576.97" y="1389.6599999999999" as="targetPoint" />
+            <mxPoint x="506.92" y="1389.6599999999999" as="sourcePoint" />
+            <mxPoint x="566.9200000000001" y="1389.6599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VUR4jvpd3xTprFxyKOf-50" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1322.5" width="170" height="135" as="geometry" />
+        <mxCell id="5VUR4jvpd3xTprFxyKOf-50" value="企业信息、投保信息&lt;br&gt;理赔信息、事故服务信息、&lt;br&gt;保险机构信息、服务机构信息、&lt;br&gt;保险经纪公司信息" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1322.5" width="210" height="135" as="geometry" />
         </mxCell>
         <mxCell id="MV60l0PkDkE7BMHzENdg-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1350" width="120" height="80" as="geometry" />
