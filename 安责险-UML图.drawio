@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T03:26:39.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50" etag="71L7dQ42t1BfnGFmPbsq" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T03:29:33.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50" etag="fluGNG3tkqSd7pCaDTDD" version="20.3.6" type="github">
   <diagram id="iXZ8qJka1d_i8wJ6fiUk" name="第 1 页">
-    <mxGraphModel dx="2428" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="809" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -790,12 +790,6 @@
         <mxCell id="pzzw7nvtaeHo-amtORk9-104" value="门户后端服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1825.4199999999998" y="1687" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pzzw7nvtaeHo-amtORk9-105" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
-          <mxGeometry x="2019.89" y="1620" width="52.5" height="61.76" as="geometry" />
-        </mxCell>
-        <mxCell id="pzzw7nvtaeHo-amtORk9-106" value="达梦数据库DM8" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1999.89" y="1681.76" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pzzw7nvtaeHo-amtORk9-107" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1923.42" y="1660.88" as="sourcePoint" />
@@ -803,10 +797,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pzzw7nvtaeHo-amtORk9-108" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.document;" vertex="1" parent="1">
-          <mxGeometry x="2002.34" y="1469.5" width="37.86" height="58" as="geometry" />
+          <mxGeometry x="2066.0699999999997" y="1572.5" width="37.86" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="pzzw7nvtaeHo-amtORk9-109" value="门户前端静态页面" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1961.27" y="1527.5" width="120" height="30" as="geometry" />
+        <mxCell id="pzzw7nvtaeHo-amtORk9-109" value="运行日志" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1630.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzzw7nvtaeHo-amtORk9-110" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -822,6 +816,18 @@
             <mxPoint x="1879.8199999999997" y="1574" as="sourcePoint" />
             <mxPoint x="1879.38" y="1615" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pzzw7nvtaeHo-amtORk9-112" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.document;" vertex="1" parent="1">
+          <mxGeometry x="2070.9399999999996" y="1660.5" width="37.86" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="pzzw7nvtaeHo-amtORk9-113" value="错误日志" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2054.87" y="1718.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzzw7nvtaeHo-amtORk9-114" value="错误日志" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2054.87" y="1718.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzzw7nvtaeHo-amtORk9-115" value="实时写入日志" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1914.8899999999999" y="1620" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
